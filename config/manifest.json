@@ -1,0 +1,702 @@
+{
+    "common-2.MPQ": {
+        "hash": "2880efe61d93b40030bd71946594647414c37bb8f0c48732d07e02bab74bf580",
+        "size": 1810432491,
+        "mtime": 1282205142.0
+    },
+    "common.MPQ": {
+        "hash": "23b0b5d259504873b929425af41a5b9b2c37ef3c1f1fad5b00d519ca6e7fd0ec",
+        "size": 2881068818,
+        "mtime": 1282205952.0
+    },
+    "expansion.MPQ": {
+        "hash": "c64be552a8389e826ce7ae61b338954111b0aa45f072659fa3ec9281baa45ffa",
+        "size": 1921154497,
+        "mtime": 1282206230.0
+    },
+    "lichking.MPQ": {
+        "hash": "0ecbacf3e724008be1f7ddda7163dee0877d97aa30cabffc2a7e7e2ec28fda22",
+        "size": 2577844952,
+        "mtime": 1282207200.0
+    },
+    "patch-2.MPQ": {
+        "hash": "c8b78bb75bcf5773e9ae99e11bdfcabc2a37aed3da947367d8af808d4d3c23c6",
+        "size": 1401729059,
+        "mtime": 1282208922.0
+    },
+    "patch-3.MPQ": {
+        "hash": "56dbbfc8f9ce7182ca88538d75284e738020138a7ca4217d72d8168865510dd3",
+        "size": 605089137,
+        "mtime": 1282209826.0
+    },
+    "patch.MPQ": {
+        "hash": "57c5b4480a5229f954fc75c612da84833add430921b6e4aa7997493000f30341",
+        "size": 4004718958,
+        "mtime": 1282208130.0
+    },
+    "realmlist.wtf": {
+        "hash": "4e9b9f926b4347fe6ff8a2f646650b91d16f66d7bcf6617a4ba498e618d84a6d",
+        "size": 25,
+        "mtime": 1754722370.572686
+    },
+    "koKR/AccountBilling.url": {
+        "hash": "e44ea3b6f42c21a7d640d672f0e10ac95679a0090016a1b647c652959083ab03",
+        "size": 158,
+        "mtime": 1282207238.0
+    },
+    "koKR/backup-koKR.MPQ": {
+        "hash": "563e70d988ec1a2708d22d93d16bb8697eb379dfabc50291f4f7253264bd2367",
+        "size": 169836211,
+        "mtime": 1282209774.0
+    },
+    "koKR/base-koKR.MPQ": {
+        "hash": "3a8de82ad43b0636abd571144d86324fe1883ffdb27ecd23dfa28fc443da03d1",
+        "size": 33469898,
+        "mtime": 1282207222.0
+    },
+    "koKR/connection-help.html": {
+        "hash": "2989702e6fb4bc22d09eec4f6989a4f880e8bcde922be65467d8af2962930a8d",
+        "size": 8590,
+        "mtime": 1282207244.0
+    },
+    "koKR/Credits.html": {
+        "hash": "79e0042fd6042add33d66647fd5154c1eaeba8d8a3337a292f4075cd2ed57398",
+        "size": 28746,
+        "mtime": 1282207238.0
+    },
+    "koKR/Credits_BC.html": {
+        "hash": "c8847942343402c1fec81c6bd8348f8ca024dd96cbd6e7b940bb7618685f8c7a",
+        "size": 38348,
+        "mtime": 1282207238.0
+    },
+    "koKR/Credits_LK.html": {
+        "hash": "195103b268c64af172bfbe2334bea4c4b1c79e048e65678aaf7c8389aee8ecd3",
+        "size": 74223,
+        "mtime": 1282207238.0
+    },
+    "koKR/eula.html": {
+        "hash": "325cb5569468967361de2909fb95ff7226b767eaf24d641c6e5fee8c61fc006c",
+        "size": 21,
+        "mtime": 1752913433.0474741
+    },
+    "koKR/expansion-locale-koKR.MPQ": {
+        "hash": "f1a1853873467158dddf8175e3f3d5abe0b19005cd584b1a55d941339bda1a95",
+        "size": 17389223,
+        "mtime": 1282206236.0
+    },
+    "koKR/expansion-speech-koKR.MPQ": {
+        "hash": "4d374d8b45a58936c7f164b291466d874d1329dd86496252f77d710d040907c6",
+        "size": 245006330,
+        "mtime": 1282206290.0
+    },
+    "koKR/lichking-locale-koKR.MPQ": {
+        "hash": "3ffbd354ebdc5f6c55625eb9386904a0cc704f0c401f520fc5d989f3bad184c5",
+        "size": 12624210,
+        "mtime": 1282207204.0
+    },
+    "koKR/lichking-speech-koKR.MPQ": {
+        "hash": "41e03f0c16e0a58356f088c246d3627933215f07cddd37b827aa987370e1f834",
+        "size": 16062598,
+        "mtime": 1282207208.0
+    },
+    "koKR/locale-koKR.MPQ": {
+        "hash": "e61eeeff50c0692881c7212416390ce62a5925d44567b7f06a54219fc7abee44",
+        "size": 195312871,
+        "mtime": 1282206368.0
+    },
+    "koKR/patch-koKR-2.MPQ": {
+        "hash": "86c6593f77db82bc7f5cc4f3b56c1eb3405c758992198df8a45a16e5bf479a87",
+        "size": 221349573,
+        "mtime": 1282208988.0
+    },
+    "koKR/patch-koKR-3.MPQ": {
+        "hash": "44f43bf9a1f36705d2e813ff56c02be1d043f30ad570adb263e01c0daadd90d3",
+        "size": 125358564,
+        "mtime": 1748335790.3421135
+    },
+    "koKR/patch-koKR.MPQ": {
+        "hash": "d74109efbaa300191c5b43b6ea6201df5a1ba2810c3e78d8c527ee8ed628279f",
+        "size": 543482224,
+        "mtime": 1282208250.0
+    },
+    "koKR/realmlist.wtf": {
+        "hash": "4e9b9f926b4347fe6ff8a2f646650b91d16f66d7bcf6617a4ba498e618d84a6d",
+        "size": 25,
+        "mtime": 1754722370.572686
+    },
+    "koKR/speech-koKR.MPQ": {
+        "hash": "2fa447517564145628e6475c287a98c9bf2d3c99c10c9056607bdaad55a95c1b",
+        "size": 426194733,
+        "mtime": 1282206478.0
+    },
+    "koKR/TechSupport.url": {
+        "hash": "e5c9be9469914215b04e6a32cff110a288dc0024a9641262d18e052e950ca39c",
+        "size": 148,
+        "mtime": 1282207244.0
+    },
+    "koKR/tos.html": {
+        "hash": "3da931bc17a5aabd0deb7a250eababefc36441fa98042c9497df8d7de365aa96",
+        "size": 68770,
+        "mtime": 1282209438.0
+    },
+    "koKR/Documentation/Manual.pdf": {
+        "hash": "32249f0618c4b2e2974f5dc9d7241283de8b6530b7a40597dc58ccc776950155",
+        "size": 6676602,
+        "mtime": 1282207236.0
+    },
+    "koKR/Documentation/Manual_TBC.pdf": {
+        "hash": "4640ae323eed8b7e13e3a8caf8838fe02790ec5f31d2686d5b1bf7721b9d41cf",
+        "size": 1424469,
+        "mtime": 1282207238.0
+    },
+    "koKR/Documentation/Manual_WLK.pdf": {
+        "hash": "d73fc9acd17cfafd045036e9ffd535357dd4909c443616bd8a21493114c2596b",
+        "size": 1549033,
+        "mtime": 1282207238.0
+    },
+    "koKR/Documentation/ReadMe.html": {
+        "hash": "e265db90f4bca419d2e2aebf81af62e682bcc91d36ad26735e8999692b70b9dc",
+        "size": 1737,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Images/bg-botleft.jpg": {
+        "hash": "cd437ac519d51b64491951dabb711cc7682174b1d3441d481d36cd3df9719ccc",
+        "size": 1864,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-botright.jpg": {
+        "hash": "293aa488a98a7a61d9eb3f715003709e406e23ef7e011c4b0477f18039d732db",
+        "size": 1691,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-bottom.jpg": {
+        "hash": "07e92a65d48a544f09b6ba26e560b1b0df85e44ca649a8f8d8aa136edb2c898d",
+        "size": 2939,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-left.jpg": {
+        "hash": "b29438ff5924added32696e08328527b24cd42709ecddfd90f15cba215353df0",
+        "size": 2478,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-merge.jpg": {
+        "hash": "0a121aa2af341dee63245db85c74622b10052d9f623713308aaecdd18da05e33",
+        "size": 375,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-mergebot.jpg": {
+        "hash": "10d0c54f21d62d3dd8c4f58142b7266fdf71ef548becb2facbfe3edd676ca82c",
+        "size": 592,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-middle.jpg": {
+        "hash": "5b2556aee8e9cb6b5462fe5a348c7a1ea71293298323423775b6440713e763e6",
+        "size": 1235,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/bg-right.jpg": {
+        "hash": "6508b781f3d64bb5f58cb322ee2a743fb4cef438b59d51435abdd084e8d1edaa",
+        "size": 2262,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/bg-top.jpg": {
+        "hash": "582182078e715513bedad6120e53d4b776e2fa0863117930da40d990f149feec",
+        "size": 7773,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/Blizz.jpg": {
+        "hash": "e095e5413a4e9f2a4a6b54b82944e90af822276f0b42e1f4d7ac41ebfc447e76",
+        "size": 25635,
+        "mtime": 1282207228.0
+    },
+    "koKR/Documentation/Images/BLWidget.jpg": {
+        "hash": "916d735eb79478c6830f8143862979bf9a405459cf51018c42ec10066c220ac4",
+        "size": 9497,
+        "mtime": 1282207228.0
+    },
+    "koKR/Documentation/Images/BRWidget.jpg": {
+        "hash": "cbf25d6e6dfa0fbd42c88a97a5ad982a3a9df0e35087ed30ecf86416ea9091a6",
+        "size": 9454,
+        "mtime": 1282207228.0
+    },
+    "koKR/Documentation/Images/BWidget.jpg": {
+        "hash": "2ab0d290598c0ba9ee82bcf558cc79088062e7604b71c89f8de692344b7c2de0",
+        "size": 10358,
+        "mtime": 1282207228.0
+    },
+    "koKR/Documentation/Images/CRepeat.jpg": {
+        "hash": "43d34c9ce8a66b507a3fb54a7c13ce56faee26850dd4f8dd0e5fc9bd649fb4bb",
+        "size": 18653,
+        "mtime": 1282207228.0
+    },
+    "koKR/Documentation/Images/dragon-left.jpg": {
+        "hash": "953b538cf32224c3d726f580aed6c9ba199b3c6e123d2ff2c06c6271199657a9",
+        "size": 2718,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/dragon-right.jpg": {
+        "hash": "795de340815362ff6e53705ac05f500cfa57cc66cedbfa6858ac0edea2b56474",
+        "size": 2037,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/gryphon-right.jpg": {
+        "hash": "101c3955c6f6f5e5f499a1876fef5fadd36e9b77cb7147400e09118d73ecb066",
+        "size": 930,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/help-request.gif": {
+        "hash": "102b7b9c37fd5544f7cdeaaa07db3fd035cd35529779c454e2224329a9c7c942",
+        "size": 543,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/ItemMarker.jpg": {
+        "hash": "e8790537ec0662825f7f9f9e460d443d1893b9b7be5d5d36a8a40edab94538a1",
+        "size": 19551,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/logo-blizzard.gif": {
+        "hash": "cfbce7301cfd89acc04d300ec4d6be0f4e183b75af6a72df139dbd6460387699",
+        "size": 10253,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/logo-bnet.gif": {
+        "hash": "c041a26e40f7749a7d2c889a00a5a98d407106451d5f63bfe754635bc3964b15",
+        "size": 10357,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/logo-wow.gif": {
+        "hash": "2e427c391e2a6e154d3ee92cb09148a77f0739ffcac3d6a1748982d1bcad3da1",
+        "size": 22940,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/LRepeat.jpg": {
+        "hash": "aa20dec5486f2a6eac6f679e52b4ef2fb575332eb69ca7d4df48d0e3aed7aa45",
+        "size": 13245,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/MacLogo.jpg": {
+        "hash": "643fa9e9e6d87a65c9d6f2546539efa002eeb49e20c8b483870d3e12469719d4",
+        "size": 15588,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/PCLogo.jpg": {
+        "hash": "efa570ba8d980e0d8d9db77ca05882b3ff3263b8fff4bc64f315073d84c66f41",
+        "size": 1385,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/pixel.gif": {
+        "hash": "b1442e85b03bdcaf66dc58c7abb98745dd2687d86350be9a298a1d9382ac849b",
+        "size": 43,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/RRepeat.jpg": {
+        "hash": "ed9764e88d62726a2a4aa9c0fb1d5f64c6da4a931b29b47217b9c0689c6bfe1f",
+        "size": 13460,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/splash.jpg": {
+        "hash": "38e3c7b4f690999d9b6dbb531a6361fd8acde772af04b3ae91e269e0197f6716",
+        "size": 53481,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/title-troubleshooting.jpg": {
+        "hash": "c6c8f9b59d315b573af11596f7f913bdbfc1273cae58162394512e48874f7409",
+        "size": 10788,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/TLWidget.jpg": {
+        "hash": "1786c6c43d765732f217d645991679fe6f0a9b94ad9ad827209b9cc24f382375",
+        "size": 9481,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/TRWidget.jpg": {
+        "hash": "39734c47593de19c92dfd36c617eed79ca3fbf246615a636db31948cc7c99374",
+        "size": 9440,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Images/TWidget.jpg": {
+        "hash": "668e8ab5d29b814b28b7ce4dcfd5e8b43d29ce1d8f3ecc3d0d0ea084afb8e267",
+        "size": 10340,
+        "mtime": 1282207230.0
+    },
+    "koKR/Documentation/Layout/BSpacer.html": {
+        "hash": "9a3d549b17079596a3271628554825e51178156b3d9499d87ee259eb39b4cbfb",
+        "size": 815,
+        "mtime": 1282207238.0
+    },
+    "koKR/Documentation/Layout/CSpacer.html": {
+        "hash": "f4cdfe7498ceb7eee3aceabd97eff1d8fe54c6e5b2b217333c329b2e6e7a946e",
+        "size": 395,
+        "mtime": 1282207238.0
+    },
+    "koKR/Documentation/Layout/Detector.js": {
+        "hash": "2eadb7e728c3aec6ae1f5684703174c920869851fa66a22f34bb7229c89b2eaa",
+        "size": 377,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Layout/Greeting.html": {
+        "hash": "111f0c07217d3432fe865bc4a982ad567a76c24f2ed765d13a0292ea02c34563",
+        "size": 1216,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/Index.html": {
+        "hash": "cffea23e17b170b205001d4d2f73dcc3f956fe96dd63e7daf52eede59eafd484",
+        "size": 1714,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/LBorder.html": {
+        "hash": "0982ea28ad3c8ad7803d6ce5d85fd1612457f9b67a70eedfa195a1ab0a5a4d0c",
+        "size": 422,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/RBorder.html": {
+        "hash": "732ac9054a6a70746948f92c7eb500807ab83fbe88cecb812efef57c46cb8463",
+        "size": 435,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/Requirements.html": {
+        "hash": "c91b7c1c717d41c846bdf9e7707e1321fe9aa0399709b70707466deeca2e438d",
+        "size": 1455,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/Splash.html": {
+        "hash": "b526fc784e8c1408e30bcea4d7a596582ef3cb2be590ea260ec147db936c7d6a",
+        "size": 804,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/Styles.css": {
+        "hash": "9a983586b2d8b7115933897c8158f7584cedb11c89960f0e31ce155fcf12d1fe",
+        "size": 6719,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Layout/StylesLeft.css": {
+        "hash": "76560f4d23ff0fa16ff535cbb6aee075d5b965321e842732de42f5a640bcd8b1",
+        "size": 6375,
+        "mtime": 1282207236.0
+    },
+    "koKR/Documentation/Layout/TBorder.html": {
+        "hash": "590764ee5ff9793cf93e7994181e1e9247b7a6f48ef87969d5b17b89cbdfaea3",
+        "size": 2904,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/Layout/TheScript.js": {
+        "hash": "018f3a992b37fd7680f000263882fa33fff011ba0df4df1db6b9678877a1eb5d",
+        "size": 7463,
+        "mtime": 1282207236.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)Foreword.html": {
+        "hash": "ae4db149c9ca058a1bf33d0a549624b121cb2720c1cfeaf6a9b4a92bcf15572b",
+        "size": 1290,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)Installation.html": {
+        "hash": "ebba31035a618e792da0ad4a780f9e99da4ba186902d9fc09e2c331e87f81c81",
+        "size": 1411,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)Patching.html": {
+        "hash": "f8e3ea5aa262d193c81c6fe3692924a1e1961af5570fc66ea7ae93b1be081b98",
+        "size": 1292,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)ReadMeMenu.html": {
+        "hash": "d8fff7d1efd0c06ced844689a2c0b3b85dfcd7cf9cfdadd5a6fe80898ad17548",
+        "size": 2179,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)SystemRequirements.html": {
+        "hash": "326240637fd8c1d9f04a43dcbdf3d5e4bdd984a5797d2fa804d3000fb8cb1e1f",
+        "size": 1674,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(Mac)Uninstall.html": {
+        "hash": "7e3632114f667d9df5e99132b46c199b487597ebcdd7f373e5c8c464777ee0da",
+        "size": 1498,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(PC)Foreword.html": {
+        "hash": "ae4db149c9ca058a1bf33d0a549624b121cb2720c1cfeaf6a9b4a92bcf15572b",
+        "size": 1290,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(PC)Installation.html": {
+        "hash": "fbb2f63790c334defe2418afcef85265c55817fad862379d05aa8c26f2f67514",
+        "size": 2147,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(PC)Patching.html": {
+        "hash": "ddb8f0deb4b00125f708832b7ace7fb93e2f6493391e2dd808be4e0de3af4d27",
+        "size": 1290,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(PC)ReadMeMenu.html": {
+        "hash": "d5570e9f4188eed15412683263e0423760b373689906854786c19ad9121445a5",
+        "size": 2171,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/(PC)SystemRequirements.htm": {
+        "hash": "21eaf34240bc7a6ca09cd634f2ad66faf2ebc21107cfc93f0e3daac587a5edd7",
+        "size": 1949,
+        "mtime": 1282207238.0
+    },
+    "koKR/Documentation/ReadMe/(PC)Uninstall.html": {
+        "hash": "0be710b99856d0c79fe40b4f0bdbcf46fe7bd6580c0ec821495b82248f439eb7",
+        "size": 1779,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/BasicCommands.html": {
+        "hash": "fe0ae0a6f98fe695511f4c61e40e1e80ef2920a728563b65d67dc484f3ac7729",
+        "size": 14649,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/CharacterNaming.html": {
+        "hash": "8eb0aaf252fe01718098b3867d5793e800786d39ba1fd8f24bb0cdeda8351079",
+        "size": 1242,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/EULA.html": {
+        "hash": "f7f7e6c38d257531510073b733f3cbb4771101485dc94b4ed5d591fe53c70b04",
+        "size": 21268,
+        "mtime": 1282209750.0
+    },
+    "koKR/Documentation/ReadMe/GettingStarted.html": {
+        "hash": "e7f61f176e4da4efff3f1f4ce7d3da3cd15e58249799328f4b15aa6bccb4be51",
+        "size": 2439,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/ManualErrata.html": {
+        "hash": "01cd414274cc9fbf4d9a6fe3b9b2635b0abaa3afafc864ed56892143f12a42ca",
+        "size": 1187,
+        "mtime": 1282207240.0
+    },
+    "koKR/Documentation/ReadMe/RealmSelection.html": {
+        "hash": "b2784c47a176a0fbd071691a30b1aa7a2a1bbcfd66ae1f03c693429b46e788af",
+        "size": 2541,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/(Mac)SupportMenu.html": {
+        "hash": "d30c2f2378ae790013e8d4a3f2623182a8cea988053310874e8d2d696ac32311",
+        "size": 2386,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/(Mac)TechnicalSupport.html": {
+        "hash": "615d633a9aafe5153cee86ce0f1ed6e797d29a76ad7236849bb4c6ceb5398c41",
+        "size": 1898,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/(PC)SupportMenu.html": {
+        "hash": "e77c037b47d3dfc757f3992fe8937d836613730d327cc977cdd56b81f15ec200",
+        "size": 2534,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/(PC)TechnicalSupport.html": {
+        "hash": "615d633a9aafe5153cee86ce0f1ed6e797d29a76ad7236849bb4c6ceb5398c41",
+        "size": 1898,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/AccountAdministration.html": {
+        "hash": "ff29a30dc768bb2a6b3f73824992e159a381d370fcba7e9020268fd5a6552e01",
+        "size": 3280,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/GameSuggestions.html": {
+        "hash": "70c2f217e203ba43582b95e32a150e08b5e77a69f8b229a3f98ddff4fc495189",
+        "size": 2203,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/GameSupport.html": {
+        "hash": "5aad5f0c280dc5a4d40649245d7afe34c24a91632883e4468cc06d5663b2bfb9",
+        "size": 2684,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/Password.html": {
+        "hash": "c6147e58fdcd3358d0d566e0170532420204199e956f835ca7180bf6318d371f",
+        "size": 2500,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Support/systeminfo.html": {
+        "hash": "6bc17b5cd5b972bbed40bb65acb3268016a7e97dcc07d05271b6f0435de41bf8",
+        "size": 2220,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)AudioProblems.html": {
+        "hash": "2dc4c96f0c07198deb7f9e18ccc80ec387c3c947ce4591c606d0837edab21327",
+        "size": 1547,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)BlizzardDownloaderProblems.html": {
+        "hash": "39374a9338ea53ce29f208dde0644a4f9e0d85ff19a3329adb45b37748fe288d",
+        "size": 2351,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)ConnectionLoginProblems.html": {
+        "hash": "404aabf3007628d7671da50808a8c4033bdcebe3b1b489d921b8a5fb4f7ccccc",
+        "size": 5643,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)GameplayProblems.html": {
+        "hash": "b0ed3febdbb5c2470cfb2ad2ff38a109c1fa29f38c6f8afd115e758a2c24ae1f",
+        "size": 2622,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)Install.html": {
+        "hash": "1e72fc8f1f66fa80d4c09693ddf5f53e6b0388b98b3615ca961d27c613e23fa4",
+        "size": 1029,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)PreventiveMaintenance.html": {
+        "hash": "f8b29272416c09d23455a9d346a7c3c9b851c74b81b1733b8a32e06ec00f0ca2",
+        "size": 4147,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)StartupProblems.html": {
+        "hash": "8938975841fdd5e50cb96b31e0899c7a316e77ce42b7fc4769c9225e82ac5b81",
+        "size": 4720,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)TroubleshootingMenu.html": {
+        "hash": "5ab79f85d816131c3f4de55d3adcfa4444581c8e4b729ba004dd9a262540f6c1",
+        "size": 2122,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(Mac)VideoProblems.html": {
+        "hash": "e181e09c0cdd6d9fa69b0ad6c1c1014440ad834f8c127f48830c80f2aa4d80a5",
+        "size": 6672,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)AudioProblems.html": {
+        "hash": "ca9f9360146c2d5fe2408a82f05f94ee8f87a21f4388817b6574596fdda25cf3",
+        "size": 4753,
+        "mtime": 1282207242.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)BlizzardDownloaderProblems.html": {
+        "hash": "15a52e4cccad48abae0c473fb93926fb3d7b97da0bd6267c6bf995d5beef8ee1",
+        "size": 3506,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)ConnectionLoginProblems.html": {
+        "hash": "630adb1178c319fb4147e55feffdb10b085df7d90ea8fc2001d438d4e8851cb7",
+        "size": 5657,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)GameplayProblems.html": {
+        "hash": "eabaf5d56b47496ad70d576c11553431d3787a7a25475c628022474ae1915b7c",
+        "size": 2621,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)Install.html": {
+        "hash": "d378fb653cd49dd720c7009930cd20c9a22bdd006a638115d8ea69e05d8fd062",
+        "size": 2050,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)PreventiveMaintenance.html": {
+        "hash": "ee13082aabeec147f0ec9f24febb2950b15b6a2a6159e3d7c134194282b9531c",
+        "size": 6972,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)StartupProblems.html": {
+        "hash": "4136039cd79a9394397fa19a546160f64bc7cf1d21028866bb5bd46dbda7cec4",
+        "size": 4592,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)TroubleshootingMenu.html": {
+        "hash": "31b03a69da552c2f570952b9afff05841f24a060678536d9863969706f9858c0",
+        "size": 2111,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Troubleshooting/(PC)VideoProblems.html": {
+        "hash": "667d3029856b955308916eb5fc895933a9dbbe541f51d42410fd7cf1e9914515",
+        "size": 7758,
+        "mtime": 1282207244.0
+    },
+    "koKR/Documentation/Images/buttons/contactinfo-over.gif": {
+        "hash": "5dfae8bf9e50b3bc56e6f16b506fd367f264df88ee53cd20d9e886e25e319acb",
+        "size": 2228,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/contactinfo.gif": {
+        "hash": "13aa7c589c3a903e9ceca286b28f21d1348508f64b6f8a78eed55453a8ef91ec",
+        "size": 2062,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/mac-over.jpg": {
+        "hash": "06331f4bfd236ed4bf3dd9c75d0bb20717f9ae289f594f33fed9ec11efcc8ccf",
+        "size": 1971,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/mac.jpg": {
+        "hash": "1f3fab75b67e56308c4c3c601937f5e9e3df8d8fe940e11d51324dc2480da22b",
+        "size": 1893,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/pc-over.jpg": {
+        "hash": "b3bbd5a9847624c4b408b23c17db7f88126034984125ee13d4517f5c54d43099",
+        "size": 1901,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/pc.jpg": {
+        "hash": "2ceeb6f03702fd7604bccc01e9ba6a818a1808fbf07695aea1ad71057711a690",
+        "size": 1809,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/buttons/readme-over.gif": {
+        "hash": "ce985520120968734c667065025002045190c79b2a441b99b330aabc7703b7f2",
+        "size": 2206,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/buttons/readme.gif": {
+        "hash": "e3bf0dbdc72eac5b060145f34d30e81ec350cefc0784360142c8e0468b436172",
+        "size": 2023,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/buttons/troubleshooting-over.gif": {
+        "hash": "b5ed18e0790a1bc300fede26db12aadafeb50cad5e1f1476092301a28aa04be3",
+        "size": 2217,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/buttons/troubleshooting.gif": {
+        "hash": "8809bfdd47f65efb4057d98367bfd8a195a9c7c719f46f2cf1e859518a5b518b",
+        "size": 2155,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/buttons/website-over.gif": {
+        "hash": "bba46d9033058680da0eecc9b30fee015d4bbef177d502eafd7503c5e6e76b15",
+        "size": 2274,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/buttons/website.gif": {
+        "hash": "cfcfb280118d10c9390e067d1d1c229f1bf7bddeb69a5fc4581ac55c32bd2f15",
+        "size": 2082,
+        "mtime": 1282207234.0
+    },
+    "koKR/Documentation/Images/titles/contactinfo-mac.jpg": {
+        "hash": "643c5084c37a8ac823318e724b8d829e0daebe63602f3e8656751de70135b0e5",
+        "size": 39360,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/titles/contactinfo-pc.jpg": {
+        "hash": "8e8bc390abd0ebb4ccd7668c4cb356db642992668d955122b890989a30d5c6bb",
+        "size": 40675,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/titles/readme-mac.jpg": {
+        "hash": "da569e595883245ba3ef27d6177bbebe1cabcf9b33753f2249dc2a7dc8b13198",
+        "size": 35787,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/titles/readme-pc.jpg": {
+        "hash": "15a55ea999f966de49187a8ce600458ca2cf9349010ac563c7cdae16e06b9419",
+        "size": 36877,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/titles/troubleshooting-mac.jpg": {
+        "hash": "6ba345d930c9a6045d5291868bdd8b7f7625a6248de4d41b17bdd3eb8a69eb53",
+        "size": 37619,
+        "mtime": 1282207232.0
+    },
+    "koKR/Documentation/Images/titles/troubleshooting-pc.jpg": {
+        "hash": "acb1feda990588a7221add7963fc127e0c614c9a916f0acc738f840576ac30d3",
+        "size": 38932,
+        "mtime": 1282207232.0
+    }
+}

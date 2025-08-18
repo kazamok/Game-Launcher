@@ -1,0 +1,17 @@
+{
+    "game": {
+        "path": "C:/WISE/WOW335",
+        "realmlist": "127.0.0.1",
+        "launch_options": ""
+    },
+    "graphics": {
+        "resolution": "1920x1080",
+        "quality": "높음",
+        "windowed": true
+    },
+    "auth": {
+        "username": null,
+        "account_id": null,
+        "auto_login": false
+    }
+}

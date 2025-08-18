@@ -1,0 +1,11 @@
+PySide6>=6.5.0
+aiohttp>=3.8.0
+aiomysql>=0.2.0
+cryptography>=41.0.0
+pywin32>=306
+# libtorrent-python>=2.0.0  # 토렌트 작업용
+pyautogui>=0.9.53
+# python3-xlib>=0.15  # Linux용
+# python-xlib>=0.31   # Linux용
+mouseinfo>=0.1.3    # pyautogui 의존성
+humanize>=4.0.0  # 크기 및 시간 형식 지정용 
