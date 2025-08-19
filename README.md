@@ -1,4 +1,4 @@
-![스크린샷](images/screenshot.png)
+![스크린샷](images/screenshot.jpg)
 
 # WoW 3.3.5 런처
 
@@ -17,13 +17,13 @@ AzerothCore를 지원하는 World of Warcraft 3.3.5a용 최신 런처입니다.
 
 - Python 3.8+
 - PySide6
-- MySQL 서버 (AzerothCore와 연동용)
+- MySQL 서버 (AzerothCore 연동)
 
 ## 설치
 
 1. 저장소 복제:
 ```bash
-git clone https://github.com/JumpyLion87/Game-Launcher.git
+git clone https://github.com/kazamok/Game-Launcher.git
 cd Game-Launcher
 ```
 
@@ -38,18 +38,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-## 프로젝트 구조
-
-wow_launcher/
-├── assets/ # 애플리케이션 리소스
-│ ├── images/ # 이미지 및 아이콘
-│ └── styles/ # QSS 스타일
-├── config/ # 설정 파일
-├── docs/ # 문서
-└── src/ # 소스 코드
-├── api/ # 서버와 통신하기 위한 API
-└── ui/ # 사용자 인터페이스
 
 ## 개발
 
@@ -90,20 +78,10 @@ cryptography>=41.0.0
 
 MIT 라이선스
 
-## 작성자
-
-- 개발: [당신의 이름]
-- 디자인: [디자이너 이름]
-
 ## 감사
 
 - 훌륭한 에뮬레이터를 만들어준 [AzerothCore](https://www.azerothcore.org/)
 - 지원과 테스트를 해준 WoW 커뮤니티
-
-
-## 저자
-
-- [Your Name](https://git.totmin.ru/farkadi)
 
 ## 라이선스
 
